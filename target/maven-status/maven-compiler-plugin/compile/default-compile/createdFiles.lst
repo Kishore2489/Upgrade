@@ -1,0 +1,8 @@
+com\qa\api\Statelist.class
+com\qa\Pages\PersonalInfoPage.class
+com\qa\Pages\LoginPage.class
+com\qa\BaseClass\TestBase.class
+com\qa\api\StateInfo.class
+com\qa\Pages\OfferPage.class
+com\qa\Pages\HomePage.class
+com\qa\api\StatesInfo.class
