@@ -16,7 +16,7 @@
 Reports will be available in following path:
 >path of the project\target\surefire-reports\index.html
 
-In index.html click Reporter Output to view the outcomes for API validatation
+In Index.html click Reporter Output to view the outcomes for API validatation
 
 
 #### Note:
