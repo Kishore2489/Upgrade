@@ -16,7 +16,7 @@
 Reports will be available in following path:
 >path of the project\target\surefire-reports\index.html
 
-
+In index.html click Reporter Output to see name of that state has a min age of 19 and a state with min loan amount requirement of $3,005
 
 
 #### Note:
