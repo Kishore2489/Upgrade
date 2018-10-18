@@ -14,7 +14,10 @@
 
 #### To view the reports
 Reports will be available in following path:
-<path wherever project is stored>\target\surefire-reports\index.html
+##### path wherever project is stored 
+<\target\surefire-reports\index.html>
+
+
 
 #### Note:
 The build will fail because ValidateStateCode method in ApiTestValidation fails. 
