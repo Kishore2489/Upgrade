@@ -14,8 +14,7 @@
 
 #### To view the reports
 Reports will be available in following path:
-##### path wherever project is stored 
-<\target\surefire-reports\index.html>
+path wherever project is stored <\target\surefire-reports\index.html>
 
 
 
