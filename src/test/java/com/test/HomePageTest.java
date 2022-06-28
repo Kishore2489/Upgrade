@@ -11,7 +11,8 @@ import com.qa.Pages.PersonalInfoPage;
 
 public class HomePageTest extends TestBase {
 		
-		HomePage hp;
+		HomePage hpi;
+		//int sum = 0;
 		PersonalInfoPage pp;
 		OfferPage of;
 		LoginPage lp;
