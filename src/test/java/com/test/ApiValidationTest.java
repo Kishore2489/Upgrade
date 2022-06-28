@@ -24,7 +24,7 @@ public class ApiValidationTest {
 	* The method gets the response from the api
 	* deserializes to class States Info matching the schema
 	* predefined states in US 
-	* 
+	* Adding a dummy message 
 	*/
 	@BeforeTest
 	public void getResponse() {
